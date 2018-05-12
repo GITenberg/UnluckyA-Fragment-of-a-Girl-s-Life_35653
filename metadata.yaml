@@ -1,0 +1,27 @@
+_repo: UnluckyA-Fragment-of-a-Girl-s-Life_35653
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Austin, Caroline
+    alias: Mrs. Whitway
+    gutenberg_agent_id: '37805'
+    url: http://www.gutenberg.org/2009/agents/37805
+description: ''
+gutenberg_issued: '2011-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35653'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Domestic fiction'
+- !lcsh 'England -- Juvenile fiction'
+- !lcsh 'Stepdaughters -- Juvenile fiction'
+title: 'Unlucky: A Fragment of a Girl''s Life'
+url: http://www.gutenberg.org/ebooks/35653
